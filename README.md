@@ -12,3 +12,4 @@ Para configurar o ambiente de desenvolvimento, por favor siga os passos abaixo.
     * `pipenv install`
     * `pipenv shell`
 
+:. Feito com ♥ by Professor Luciano 👋 Professor Luciano
